@@ -25,8 +25,15 @@ body {
 }
 
 .info-container p {
-    margin: 10px 0;
+    margin: 50px 0 40px 0;
     color: #fff;
+    width: 500px;
+    font-size: 24px;
+    font-weight: light;
+}
+
+.info-container #PESSOAS-icon {
+    margin: 10px 0;
 }
 
 .login-container {
@@ -74,4 +81,8 @@ body {
 
 .login-content form label {
     font-size: 14px;
+}
+
+form imput {
+    height: 1.2em;
 }
